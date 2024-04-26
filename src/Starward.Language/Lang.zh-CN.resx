@@ -130,7 +130,7 @@
     <value>占用空间：</value>
   </data>
   <data name="DownloadGameDialog_RepairMode" xml:space="preserve">
-    <value>修复模式：</value>
+    <value>分卷压缩模式：</value>
   </data>
   <data name="DownloadGameDialog_VoiceLanguage" xml:space="preserve">
     <value>语音包：</value>
